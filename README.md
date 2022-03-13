@@ -9,3 +9,10 @@ The human body is a source of thousands of types of bacteria, and different part
 ### Purpose
 
 The purpose of this analysis is to build a dashboard to visualize the bacterial data for each volunteer. So that the volunteers should be able to identify the top 10 bacterial species in their belly buttons. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
+
+## Belly Button Biodiversity Dashboard
+
+
+
+
+<img width="588" alt="Belly_Button_biodiversity" src="https://user-images.githubusercontent.com/95826875/158046132-0636121e-9538-4406-b8d0-8315011ac67f.png">
