@@ -86,7 +86,7 @@ function buildCharts(sample) {
     var barData = [{
       x: sampleValues.slice(0,10).reverse(),
       text: otuLabels.slice(0,10).reverse(),
-      type: "bar" 
+      type: "bar"
     }];
     // 9. Create the layout for the bar chart. 
     var barLayout = {
