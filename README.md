@@ -15,4 +15,4 @@ The purpose of this analysis is to build a dashboard to visualize the bacterial 
 
 
 
-<img width="588" alt="Belly_Button_biodiversity" src="https://user-images.githubusercontent.com/95826875/158046132-0636121e-9538-4406-b8d0-8315011ac67f.png">
+
